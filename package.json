@@ -1,7 +1,7 @@
 {
   "name": "vue-wallpaper",
   "description": "每日壁纸",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "LiuKun <308880147@qq.com>",
   "main": "dist/vue-wallpaper.min.js",
   "license": "MIT",
