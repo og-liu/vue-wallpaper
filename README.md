@@ -1,18 +1,15 @@
-> 每日壁纸
-<div align="center">
-  <p align="center">vue-wallpaper<br>
-  —— Made with ❤️ by <a href="https://github.com/og-liu">og-liu</a></p>
-  <p align="center">
-    <img src="https://img.shields.io/github/license/og-liu/vue-wallpaper" alt="License">
-    <a href="https://github.com/og-liu/vue-wallpaper/stargazers">
-        <img src="https://img.shields.io/github/stars/og-liu/vue-wallpaper" alt="Github starts">
-    </a>
-    <a href="https://www.npmjs.com/package/vue-wallpaper">
-      <img src="https://img.shields.io/npm/dt/vue-wallpaper" alt="Npm downloads">
-    </a>
-    <img src="https://img.shields.io/npm/v/vue-wallpaper" alt="Npm version">
-  </p>
-</div>
+## 每日壁纸
+<img src="https://img.shields.io/github/license/og-liu/vue-wallpaper" alt="License">
+
+<a href="https://github.com/og-liu/vue-wallpaper/stargazers">
+  <img src="https://img.shields.io/github/stars/og-liu/vue-wallpaper" alt="Github starts">
+</a>
+
+<a href="https://www.npmjs.com/package/vue-wallpaper">
+  <img src="https://img.shields.io/npm/dt/vue-wallpaper" alt="Npm downloads">
+</a>
+
+<img src="https://img.shields.io/npm/v/vue-wallpaper" alt="Npm version">
 
 
 ## 安装
