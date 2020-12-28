@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <wallpaper :d="6"></wallpaper>
+    <wallpaper :d="0"></wallpaper>
   </div>
 </template>
 
