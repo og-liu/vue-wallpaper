@@ -1,7 +1,20 @@
 {
   "name": "vue-wallpaper",
-  "description": "每日壁纸",
-  "version": "1.0.4",
+  "description": "每日壁纸, 可以轻松实现每天自动更换一张高质量全屏壁纸",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/og-liu/vue-wallpaper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/og-liu/vue-wallpaper/issues"
+  },
+  "homepage": "https://github.com/og-liu/vue-wallpaper/blob/main/README.md",
+  "keywords": [
+    "wallpaper",
+    "vuejs2",
+    "vue-cli"
+  ],
+  "version": "1.0.5",
   "author": "LiuKun <308880147@qq.com>",
   "main": "dist/vue-wallpaper.min.js",
   "license": "MIT",

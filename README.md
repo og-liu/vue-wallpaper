@@ -27,7 +27,7 @@ import wallpaper from 'vue-wallpaper'
 Vue.use(wallpaper)
 ```
 
-## 解决跨域 （如果项目运行中修改配置文件，则需要重新运行项目才能生效）
+## vue-cli 解决跨域 （如果项目运行中修改配置文件，则需要重新运行项目才能生效）
 ```js
 // config/index.js
 module.exports = {
